@@ -1,0 +1,18 @@
+{
+    "name": "Editor.Penetrator.DataPool",
+    "rootNamespace": "",
+    "references": [
+        "Penetrator.DataPool"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Penetrator.DataPool.Test",
+    "rootNamespace": "",
+    "references": [
+        "GUID:408e9621cfbeffb4d98cbef5ea1c8b3b",
+        "GUID:df278d72a0479c2449809c600ecfb15b"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
